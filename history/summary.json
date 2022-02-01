@@ -1,6 +1,6 @@
 [
   {
-    "name": "ANPA Mar do Orzán",
+    "name": "ANPA Mar do Orzan",
     "url": "https://anpamarorzan.com",
     "icon": "https://favicons.githubusercontent.com/anpamarorzan.com",
     "slug": "anpa-mar-do-orzan",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2165,
-    "timeDay": 2165,
-    "timeWeek": 2165,
-    "timeMonth": 2165,
-    "timeYear": 2165,
+    "time": 2774,
+    "timeDay": 2774,
+    "timeWeek": 2774,
+    "timeMonth": 2774,
+    "timeYear": 2774,
     "dailyMinutesDown": {}
   }
 ]
