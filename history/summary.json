@@ -4,19 +4,19 @@
     "url": "https://anpamarorzan.com",
     "icon": "https://favicons.githubusercontent.com/anpamarorzan.com",
     "slug": "anpa-mar-do-orzan",
-    "status": "up",
-    "uptime": "99.38%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.38%",
-    "uptimeMonth": "99.38%",
-    "uptimeYear": "99.38%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2713,
     "timeDay": 2713,
     "timeWeek": 2713,
     "timeMonth": 2713,
     "timeYear": 2713,
     "dailyMinutesDown": {
-      "2022-02-02": 8
+      "2022-02-02": 0
     }
   }
 ]
