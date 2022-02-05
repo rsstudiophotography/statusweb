@@ -14,8 +14,8 @@ status-website:
   baseUrl: /statusweb
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Pagina de Status de la web del ANPA
-  introTitle: "**Upptime** es el monitor de tiempo de actividad de código abierto y la página de estado, impulsado completamente por GitHub."
-  introMessage: En esta pagina nos mantenemos informados sobre el status de la pagina de nuestra ANPA
+  introTitle: "En esta pagina nos mantenemos informados sobre el **status** de la web del **ANPA**"
+  introMessage: "**Upptime** es el monitor de tiempo de actividad de código abierto y la página de estado, impulsado completamente por GitHub."
   navbar:
     - title: Status
       href: /
