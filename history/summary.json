@@ -4,19 +4,19 @@
     "url": "https://anpamarorzan.com",
     "icon": "https://favicons.githubusercontent.com/anpamarorzan.com",
     "slug": "anpa",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2343,
-    "timeDay": 6849,
-    "timeWeek": 2449,
-    "timeMonth": 2343,
-    "timeYear": 2343,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 2327,
+    "timeDay": 4450,
+    "timeWeek": 2399,
+    "timeMonth": 2327,
+    "timeYear": 2327,
     "dailyMinutesDown": {
-      "2022-02-19": 0
+      "2022-02-19": 8
     }
   }
 ]
